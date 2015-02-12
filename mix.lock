@@ -1,0 +1,2 @@
+%{"goma": {:git, "git://github.com/beerriot/goma.git", "36e20ac2dd60eb661e77c2cb1efa8033ba741d46", []},
+  "ranch": {:git, "git://github.com/extend/ranch", "741bfb73ca663394ecf7a73410506d66f01985a6", []}}
